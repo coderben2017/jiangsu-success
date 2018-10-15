@@ -1,0 +1,19 @@
+#root .nav-tabs {
+  flex: auto;
+  padding: 0 15%;
+  line-height: 64px;
+  background: transparent;
+  border: none;
+}
+
+#root .nav-tabs .menu-item {
+  border: none;
+}
+
+#root .nav-tabs .menu-item.ant-menu-item-selected {
+  background-color: #084c87;
+}
+
+#root .nav-tabs .menu-item a {
+  color: #fff;
+}

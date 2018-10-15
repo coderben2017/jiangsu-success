@@ -1,0 +1,11 @@
+stages:
+  - deploy
+deploy_hui:
+  stage: deploy
+  tags:
+    - hui
+  only:
+    - deploy
+  script:
+    - scp -r -P12224  dist gago_xuejinliang@172.16.0.36:/home/gago_xuejinliang
+    - ssh -p 12224 gago_xuejinliang@172.16.0.36 "sh ~/deployjiangsu.sh"

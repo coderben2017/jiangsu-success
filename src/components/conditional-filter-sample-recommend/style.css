@@ -1,0 +1,16 @@
+.container-recommend {
+  min-width: 1100px;
+  height: 76px;
+  line-height: 76px;
+  padding-left: 14px;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.btn-recommend {
+  width: 88px;
+  height: 28px;
+  margin-right: 10px;
+  border-radius: 4px;
+  background-color: #20b2c1;
+}

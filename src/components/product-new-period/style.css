@@ -1,0 +1,67 @@
+.container-create-folder {
+  width: 75%;
+  min-width: 1000px;
+  min-height: 245px;
+  margin: 0 24px;
+  padding-bottom: 24px;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.div-basetype {
+  width: 75px;
+  height: 211px;
+  float: left;
+  margin-top: 16px;
+  margin-left: 63px;
+}
+.div-basetype p {
+  height: 50px;
+  position: relative;
+  margin: 0;
+  padding-top: 10px;
+  cursor: pointer;
+}
+
+.span-vertical {
+  width: 2px;
+  height: 50px;
+  position: absolute;
+  top: -5px;
+  left: 70px;
+  display: inline-block;
+  background-color: #ccc;
+}
+.span-vertical-active {
+  width: 2px;
+  height: 50px;
+  position: absolute;
+  top: -5px;
+  left: 70px;
+  display: inline-block;
+  background-color: #20b2c1;
+}
+
+.div-form-folder {
+  display: inline-block;
+  margin-top: 24px;
+  margin-left: 60px;
+}
+
+.btn-save {
+  width: 68px;
+  height: 28px;
+  border-radius: 4px;
+  background-color: #20b2c1;
+  color: #fff;
+}
+
+.container-create-sample {
+  width: 75%;
+  min-width: 1000px;
+  min-height: 245px;
+  margin: 0 24px;
+  padding: 24px 0 24px 198px;
+  border-radius: 4px;
+  background-color: #fff;
+}

@@ -1,0 +1,13 @@
+.content h3 {
+  display: inline-block;
+  width: 20%;
+}
+
+.btn-right {
+  width: 10%;
+  margin: 0 0 8px 65%;
+}
+
+.small-notes {
+  margin-left: 20%;
+}

@@ -1,0 +1,23 @@
+.container {
+  min-width: 1230px;
+  height: 76px;
+  margin-top: 16px;
+  line-height: 76px;
+  padding-left: 14px;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.icon-1 {
+  width: 4px;
+  height: 10px;
+  margin-right: 6px;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #20b2c1;
+}
+
+input {
+  height: 28px;
+  border-radius: 4px;
+}

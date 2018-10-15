@@ -1,0 +1,44 @@
+.container-model-use-result {
+	margin: 0 24px;
+	padding: 40px 0 40px 80px;
+	background-color: #fff;
+}
+
+.container-model-use-result div {
+	width: 38%;
+	height: 380px;
+	position: relative;
+	display: inline-block;
+	margin: 0 3%;
+}
+
+.container-model-use-result div img {
+	width: 100%;
+	height: 100%;
+}
+
+.container-model-use-result div span {
+	width: 36px;
+	height: 100%;
+	display: inline-block;
+	position: absolute;
+	font-size: 14px;
+	color: #fff;
+	border-radius: 4px;
+	background-color: rgba(0, 0, 0, 0.35);
+	padding-left: 11px;
+	padding-top: 11px;
+}
+
+.icon-2 {
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	background-color: #ccc;
+	text-align: center;
+	line-height: 40px;
+	cursor: pointer;
+}
+.icon-2:hover {
+	background-color: #999;
+}

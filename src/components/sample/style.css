@@ -1,0 +1,14 @@
+.head-h3 {
+	width: 200px;
+	display: inline-block;
+	margin: 24px;
+	background-color: #f0f1f2;
+}
+
+.sider {
+	height: 783px;
+	min-width: 236px !important;
+	background-color: #f0f0f0;
+	box-shadow: 1px 0 5px 0 rgba(0, 58, 127, 0.08);
+	overflow: auto; /* 目录树滚动条 */
+}

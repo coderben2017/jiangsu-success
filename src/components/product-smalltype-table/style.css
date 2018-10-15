@@ -1,0 +1,22 @@
+.container-smalltype-table {
+  width: 48%;
+  min-width: 464px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 2px;
+  padding: 16px 24px;
+  background-color: #fff;  
+}
+.container-smalltype-table h4 {
+  width: 20%;
+  display: inline-block;
+  margin: 0 0 14px 5px;
+}
+
+.button-right-small {
+  width: 68px;
+  height: 28px;
+  border-radius: 4px;
+  background-color: #fff;
+  border: solid 1px #d9d9d9;
+}
